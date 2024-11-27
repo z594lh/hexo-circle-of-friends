@@ -33,7 +33,7 @@ SETTINGS_FRIENDS_LINKS: {
     enable: false,
     json_api: "",
     list: [
-        ["AI悦创", "https://bornforthis.cn", "https://bornforthis.cn/aiyc.png"],
+        #["AI悦创", "https://bornforthis.cn", "https://bornforthis.cn/aiyc.png"],
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
@@ -58,7 +58,7 @@ GITEE_FRIENDS_LINKS: {
 # get links from github
 # 从github issue中获取友链
 GITHUB_FRIENDS_LINKS: {
-    enable: true, # true 开启github issue兼容
+    enable: false, # true 开启github issue兼容
     type: "volantis",  # volantis/stellar用户请在这里填写volantis
     owner: "z594lh",  # 填写你的github用户名
     repo: "hexo-circle-of-friends",  # 填写你的github仓库名
