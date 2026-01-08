@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 32,
-    "error_num": 69,
-    "article_num": 38,
-    "last_updated_time": "2026-01-08 14:46:55"
+    "active_num": 33,
+    "error_num": 68,
+    "article_num": 39,
+    "last_updated_time": "2026-01-08 21:02:37"
   },
   "article_data": [
     {
@@ -153,6 +153,15 @@
     },
     {
       "floor": 17,
+      "title": "2025 年度总结",
+      "created": "2025-12-23",
+      "updated": "2025-12-23",
+      "link": "https://www.fezhu.top/posts/3400fb6e.html",
+      "author": "uncleacc",
+      "avatar": "https://cdn1.tianli0.top/gh/uncleacc/cdn/img/custom/avatar.png"
+    },
+    {
+      "floor": 18,
       "title": "从iPhone13Pro换到iPhone17，我的iPhone17上手体验",
       "created": "2025-12-22",
       "updated": "2025-12-22",
@@ -161,7 +170,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 18,
+      "floor": 19,
       "title": "为什么我不推荐你用 Jetson 跑大模型",
       "created": "2025-11-27",
       "updated": "2025-12-20",
@@ -170,7 +179,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 19,
+      "floor": 20,
       "title": "回忆录：音乐，番剧，与二次元",
       "created": "2025-04-28",
       "updated": "2025-12-20",
@@ -179,7 +188,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 20,
+      "floor": 21,
       "title": "在Linux的登录界面使用Sunshine串流",
       "created": "2025-04-07",
       "updated": "2025-12-20",
@@ -188,7 +197,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 21,
+      "floor": 22,
       "title": "折腾记录：我的全套电脑远程使用方案",
       "created": "2024-10-22",
       "updated": "2025-12-20",
@@ -197,7 +206,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 22,
+      "floor": 23,
       "title": "折腾记录：在牛马公司里优雅地上网",
       "created": "2024-08-01",
       "updated": "2025-12-20",
@@ -206,7 +215,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 23,
+      "floor": 24,
       "title": "宝塔安装应用提示：指定日志文件不存在解决方法",
       "created": "2025-12-18",
       "updated": "2025-12-18",
@@ -215,7 +224,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 24,
+      "floor": 25,
       "title": "那些「酷，但用不着」的 self-hosted 应用",
       "created": "2025-12-17",
       "updated": "2025-12-17",
@@ -224,7 +233,7 @@
       "avatar": "https://skywt.cn/usr/themes/sky/assets/avatar.png"
     },
     {
-      "floor": 25,
+      "floor": 26,
       "title": "微信小程序链接怎么转换为二维码？扫码直接跳转到小程序指定页面",
       "created": "2025-12-15",
       "updated": "2025-12-15",
@@ -233,7 +242,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 26,
+      "floor": 27,
       "title": "一口气拔了3个智齿，分享一下拔智齿的经历",
       "created": "2025-12-15",
       "updated": "2025-12-15",
@@ -242,7 +251,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 27,
+      "floor": 28,
       "title": "豆包输入法上手：我觉得就当个语音输入法就行",
       "created": "2025-12-12",
       "updated": "2025-12-12",
@@ -251,7 +260,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 28,
+      "floor": 29,
       "title": "买新域名啦！",
       "created": "2021-02-19",
       "updated": "2025-12-12",
@@ -260,7 +269,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 29,
+      "floor": 30,
       "title": "《赛车计划 3》：早该下架的史级烂作",
       "created": "2025-12-12",
       "updated": "2025-12-12",
@@ -269,7 +278,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 30,
+      "floor": 31,
       "title": "免费商用字体：淘宝买菜体下载",
       "created": "2025-12-09",
       "updated": "2025-12-09",
@@ -278,7 +287,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 31,
+      "floor": 32,
       "title": "1009",
       "created": "2025-12-03",
       "updated": "2025-12-03",
@@ -287,7 +296,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 32,
+      "floor": 33,
       "title": "战地6刷枪用OCR脚本",
       "created": "2025-11-24",
       "updated": "2025-11-24",
@@ -296,7 +305,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 33,
+      "floor": 34,
       "title": "Steam主页美化指南",
       "created": "2025-11-08",
       "updated": "2025-11-22",
@@ -305,7 +314,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 34,
+      "floor": 35,
       "title": "ROS实现多机话题通信",
       "created": "2025-11-19",
       "updated": "2025-11-19",
@@ -314,7 +323,7 @@
       "avatar": "https://img.mahaofei.com/img/avatar.jpg"
     },
     {
-      "floor": 35,
+      "floor": 36,
       "title": "缺氧个人使用模块收藏",
       "created": "2025-11-16",
       "updated": "2025-11-16",
@@ -323,7 +332,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
     },
     {
-      "floor": 36,
+      "floor": 37,
       "title": "Viitor上手：iOS免费的实时翻译字幕，在小窗中看到正在播放视频的中文翻译",
       "created": "2025-11-14",
       "updated": "2025-11-14",
@@ -332,7 +341,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 37,
+      "floor": 38,
       "title": "Cumulus Linux 5.1 & NVUE 使用笔记",
       "created": "2025-11-12",
       "updated": "2025-11-12",
@@ -341,7 +350,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 38,
+      "floor": 39,
       "title": "Mac上如何将 flac 导入到 Apple Music？使用快捷指令创建格式转换快捷操作",
       "created": "2025-11-10",
       "updated": "2025-11-10",
