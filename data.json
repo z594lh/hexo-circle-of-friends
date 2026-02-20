@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 32,
-    "error_num": 69,
-    "article_num": 64,
-    "last_updated_time": "2026-02-20 10:45:58"
+    "active_num": 31,
+    "error_num": 70,
+    "article_num": 65,
+    "last_updated_time": "2026-02-20 15:07:35"
   },
   "article_data": [
     {
@@ -119,13 +119,22 @@
       "floor": 13,
       "title": "pixi cookbook",
       "created": "2026-02-08",
-      "updated": "2026-02-08",
+      "updated": "2026-02-10",
       "link": "https://www.yyyzyyyz.cn/posts/0686424b447c/",
       "author": "Black Flies",
       "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
     },
     {
       "floor": 14,
+      "title": "缺氧个人使用模块收藏",
+      "created": "2025-11-16",
+      "updated": "2026-02-10",
+      "link": "https://www.yyyzyyyz.cn/posts/f96116cb782c/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 15,
       "title": "红包封面：祝大家新的一年发大财啦！",
       "created": "2026-02-04",
       "updated": "2026-02-04",
@@ -134,7 +143,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 15,
+      "floor": 16,
       "title": "终端Agent是更趁手的通用Agent",
       "created": "2026-02-02",
       "updated": "2026-02-02",
@@ -143,7 +152,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 16,
+      "floor": 17,
       "title": "Hexo浏览器定向推送文章更新",
       "created": "2026-02-19",
       "updated": "2026-01-31",
@@ -152,7 +161,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
-      "floor": 17,
+      "floor": 18,
       "title": "基于小波变换的图像去噪技术研究",
       "created": "2026-02-19",
       "updated": "2026-01-31",
@@ -161,7 +170,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
-      "floor": 18,
+      "floor": 19,
       "title": "提问的智慧",
       "created": "2026-02-19",
       "updated": "2026-01-31",
@@ -170,7 +179,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
-      "floor": 19,
+      "floor": 20,
       "title": "GitHub 自动合并 PR 笔记",
       "created": "2026-02-19",
       "updated": "2026-01-31",
@@ -179,7 +188,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
-      "floor": 20,
+      "floor": 21,
       "title": "Waline 评论系统部署日志",
       "created": "2026-02-19",
       "updated": "2026-01-31",
@@ -188,7 +197,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
-      "floor": 21,
+      "floor": 22,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
       "updated": "2026-01-27",
@@ -197,7 +206,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 22,
+      "floor": 23,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
       "updated": "2026-01-27",
@@ -206,7 +215,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 23,
+      "floor": 24,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
       "updated": "2026-01-27",
@@ -215,7 +224,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 24,
+      "floor": 25,
       "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
       "created": "2025-11-20",
       "updated": "2026-01-27",
@@ -224,7 +233,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 25,
+      "floor": 26,
       "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
       "created": "2025-11-14",
       "updated": "2026-01-27",
@@ -233,7 +242,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 26,
+      "floor": 27,
       "title": "1011",
       "created": "2026-01-26",
       "updated": "2026-01-26",
@@ -242,7 +251,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 27,
+      "floor": 28,
       "title": "二〇二六，你好",
       "created": "2026-01-25",
       "updated": "2026-01-25",
@@ -251,7 +260,7 @@
       "avatar": "https://gravatar.loli.net/avatar/ba83fa02fc4b2ba621514941307e21be"
     },
     {
-      "floor": 28,
+      "floor": 29,
       "title": "如何将 FinalcutPro的fcpxml文件转换为srt字幕？导出srt字幕方法",
       "created": "2026-01-22",
       "updated": "2026-01-22",
@@ -260,7 +269,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 29,
+      "floor": 30,
       "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
       "created": "2025-11-08",
       "updated": "2026-01-20",
@@ -269,7 +278,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 30,
+      "floor": 31,
       "title": "最近总觉得脑子不够用？杜老师的脑力不足自救实录",
       "created": "2025-11-02",
       "updated": "2026-01-20",
@@ -278,7 +287,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 31,
+      "floor": 32,
       "title": "为什么我不推荐你用 Jetson 跑大模型",
       "created": "2025-11-27",
       "updated": "2026-01-20",
@@ -287,7 +296,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 32,
+      "floor": 33,
       "title": "回忆录：音乐，番剧，与二次元",
       "created": "2025-04-28",
       "updated": "2026-01-20",
@@ -296,7 +305,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 33,
+      "floor": 34,
       "title": "在Linux的登录界面使用Sunshine串流",
       "created": "2025-04-07",
       "updated": "2026-01-20",
@@ -305,7 +314,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 34,
+      "floor": 35,
       "title": "折腾记录：我的全套电脑远程使用方案",
       "created": "2024-10-22",
       "updated": "2026-01-20",
@@ -314,7 +323,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 35,
+      "floor": 36,
       "title": "折腾记录：在牛马公司里优雅地上网",
       "created": "2024-08-01",
       "updated": "2026-01-20",
@@ -323,7 +332,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 36,
+      "floor": 37,
       "title": "一站式操作系统 ISO 下载平台",
       "created": "2025-10-27",
       "updated": "2026-01-19",
@@ -332,7 +341,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 37,
+      "floor": 38,
       "title": "MinIO 社区版 Web 管理界面被删事件全解析",
       "created": "2025-10-21",
       "updated": "2026-01-19",
@@ -341,7 +350,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 38,
+      "floor": 39,
       "title": "新年快乐！迟来的 2024 及 2025 年度报告",
       "created": "2025-12-30",
       "updated": "2026-01-19",
@@ -350,7 +359,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 39,
+      "floor": 40,
       "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
       "created": "2025-10-15",
       "updated": "2026-01-18",
@@ -359,7 +368,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 40,
+      "floor": 41,
       "title": "Focalboard 开源项目管理的有力工具",
       "created": "2025-10-09",
       "updated": "2026-01-18",
@@ -368,7 +377,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 41,
+      "floor": 42,
       "title": "word 公式批量转换",
       "created": "2026-01-17",
       "updated": "2026-01-17",
@@ -377,7 +386,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/uncleacc/cdn/img/custom/avatar.png"
     },
     {
-      "floor": 42,
+      "floor": 43,
       "title": "1010",
       "created": "2026-01-17",
       "updated": "2026-01-17",
@@ -386,7 +395,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 43,
+      "floor": 44,
       "title": "《无限试驾：太阳王冠》：小作坊别出来骗钱",
       "created": "2026-01-17",
       "updated": "2026-01-17",
@@ -395,7 +404,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 44,
+      "floor": 45,
       "title": "内网穿透到底是个什么东西？",
       "created": "2026-01-16",
       "updated": "2026-01-16",
@@ -404,7 +413,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/uncleacc/cdn/img/custom/avatar.png"
     },
     {
-      "floor": 45,
+      "floor": 46,
       "title": "如何免水印下载豆包生成的图片？豆包AI图去水印，无水印下载",
       "created": "2026-01-14",
       "updated": "2026-01-14",
@@ -413,7 +422,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 46,
+      "floor": 47,
       "title": "锂电池寿命影响因素探究及原理分析",
       "created": "2024-12-30",
       "updated": "2026-01-14",
@@ -422,7 +431,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 47,
+      "floor": 48,
       "title": "换新域名啦！2023 年度报告",
       "created": "2023-12-30",
       "updated": "2026-01-14",
@@ -431,7 +440,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 48,
+      "floor": 49,
       "title": "在 Windows 平台下搭建 SFTP 文件服务器",
       "created": "2022-07-29",
       "updated": "2026-01-14",
@@ -440,7 +449,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 49,
+      "floor": 50,
       "title": "博客一周年啦！Discord-MC-Chat 发布",
       "created": "2021-07-08",
       "updated": "2026-01-14",
@@ -449,7 +458,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 50,
+      "floor": 51,
       "title": "别让 Playwright 烧 Token 了, Vercel 最新开源的浏览器自动化神器真香",
       "created": "2026-01-13",
       "updated": "2026-01-13",
@@ -458,7 +467,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zeng-yq/drawingBed/img/boji.png"
     },
     {
-      "floor": 51,
+      "floor": 52,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
       "updated": "2026-01-12",
@@ -467,25 +476,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 52,
-      "title": "Mac中罗技鼠标键盘近期失灵问题解决方法，Logi Options 打不开",
-      "created": "2026-01-12",
-      "updated": "2026-01-12",
-      "link": "https://blog.zhheo.com/p/9jbu7q9r.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
       "floor": 53,
-      "title": "Mac如何将纯图片PDF转换成嵌入文字的PDF？让纯图PDF支持选中复制",
-      "created": "2026-01-12",
-      "updated": "2026-01-12",
-      "link": "https://blog.zhheo.com/p/9vtjebeo.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
-      "floor": 54,
       "title": "从“用户信息”到“向量表示”：一篇把用户特征转 成 Embedding 的完整实战指南",
       "created": "2026-01-12",
       "updated": "2026-01-12",
@@ -494,7 +485,25 @@
       "avatar": "https://cdn1.tianli0.top/gh/uncleacc/cdn/img/custom/avatar.png"
     },
     {
+      "floor": 54,
+      "title": "Mac中罗技鼠标键盘近期失灵问题解决方法，Logi Options 打不开",
+      "created": "2026-01-12",
+      "updated": "2026-01-12",
+      "link": "https://blog.zhheo.com/p/9jbu7q9r.html",
+      "author": "【红】Heo",
+      "avatar": "https://blog.zhheo.com/img/avatar.png"
+    },
+    {
       "floor": 55,
+      "title": "Mac如何将纯图片PDF转换成嵌入文字的PDF？让纯图PDF支持选中复制",
+      "created": "2026-01-12",
+      "updated": "2026-01-12",
+      "link": "https://blog.zhheo.com/p/9vtjebeo.html",
+      "author": "【红】Heo",
+      "avatar": "https://blog.zhheo.com/img/avatar.png"
+    },
+    {
+      "floor": 56,
       "title": "Gemini 3 Pro 最新白嫖攻略：3 分钟搞定，无需信用卡，无账号限制",
       "created": "2026-01-10",
       "updated": "2026-01-10",
@@ -503,7 +512,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zeng-yq/drawingBed/img/boji.png"
     },
     {
-      "floor": 56,
+      "floor": 57,
       "title": "Clash Verge 配置链式代理（超级简单）",
       "created": "2026-01-05",
       "updated": "2026-01-05",
@@ -512,7 +521,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zeng-yq/drawingBed/img/boji.png"
     },
     {
-      "floor": 57,
+      "floor": 58,
       "title": "2025，天气有点冷",
       "created": "2026-01-05",
       "updated": "2026-01-05",
@@ -521,7 +530,7 @@
       "avatar": "https://afool.top/images/nekosense.jpeg"
     },
     {
-      "floor": 58,
+      "floor": 59,
       "title": "2026 先完成，再完美",
       "created": "2026-01-04",
       "updated": "2026-01-04",
@@ -530,7 +539,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zeng-yq/drawingBed/img/boji.png"
     },
     {
-      "floor": 59,
+      "floor": 60,
       "title": "我在2026年推荐的Mac软件",
       "created": "2025-12-25",
       "updated": "2025-12-25",
@@ -539,7 +548,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 60,
+      "floor": 61,
       "title": "在Mac上使用快捷指令解决：已损坏，无法打开。你应该将它移到废纸篓",
       "created": "2025-12-24",
       "updated": "2025-12-24",
@@ -548,7 +557,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 61,
+      "floor": 62,
       "title": "提示 SMS Fee 无法登录怎么办，绕过 SMS Fee 方法",
       "created": "2025-12-23",
       "updated": "2025-12-23",
@@ -557,7 +566,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 62,
+      "floor": 63,
       "title": "如何移除Mac中访达多余的菜单项？还你一个清爽的访达右键菜单",
       "created": "2025-12-23",
       "updated": "2025-12-23",
@@ -566,7 +575,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 63,
+      "floor": 64,
       "title": "2025 年度总结",
       "created": "2025-12-23",
       "updated": "2025-12-23",
@@ -575,7 +584,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/uncleacc/cdn/img/custom/avatar.png"
     },
     {
-      "floor": 64,
+      "floor": 65,
       "title": "从iPhone13Pro换到iPhone17，我的iPhone17上手体验",
       "created": "2025-12-22",
       "updated": "2025-12-22",
