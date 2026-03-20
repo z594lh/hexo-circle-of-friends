@@ -3,8 +3,8 @@
     "friends_num": 101,
     "active_num": 32,
     "error_num": 69,
-    "article_num": 55,
-    "last_updated_time": "2026-03-20 15:06:25"
+    "article_num": 58,
+    "last_updated_time": "2026-03-20 21:17:52"
   },
   "article_data": [
     {
@@ -63,6 +63,51 @@
     },
     {
       "floor": 7,
+      "title": "Hexo浏览器定向推送文章更新",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "link": "https://blog.ccknbc.cc/posts/hexo-webpushr-notification/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 8,
+      "title": "基于小波变换的图像去噪技术研究",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "link": "https://blog.ccknbc.cc/posts/research-on-image-denoising-technology-based-on-wavelet-transform/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 9,
+      "title": "提问的智慧",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "link": "https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 10,
+      "title": "<font style=color:rgb(38, 38, 38);>2023《好好》线上演唱会</font>",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "link": "https://blog.ccknbc.cc/posts/%3Cfont%20style=%22color:rgb(38,%2038,%2038);%22%3Esong-about-you-live-in-the-sky-2023%3C/font%3E/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 11,
+      "title": "一款简洁却不简单的 m3u8 下载工具",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "link": "https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 12,
       "title": "航空发动机分类",
       "created": "2026-03-18",
       "updated": "2026-03-18",
@@ -71,7 +116,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 8,
+      "floor": 13,
       "title": "逆变器理论功耗计算",
       "created": "2026-03-18",
       "updated": "2026-03-18",
@@ -80,7 +125,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 9,
+      "floor": 14,
       "title": "产品防护等级",
       "created": "2026-03-18",
       "updated": "2026-03-18",
@@ -89,7 +134,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 10,
+      "floor": 15,
       "title": "GitHub 自动合并 PR 笔记",
       "created": "2026-03-17",
       "updated": "2026-03-17",
@@ -98,7 +143,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
-      "floor": 11,
+      "floor": 16,
       "title": "腾讯QClaw上手：打通微信很方便，但是性能上略有不足",
       "created": "2026-03-17",
       "updated": "2026-03-17",
@@ -107,7 +152,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 12,
+      "floor": 17,
       "title": "快速拷贝",
       "created": "2026-03-17",
       "updated": "2026-03-17",
@@ -116,7 +161,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 13,
+      "floor": 18,
       "title": "阿里 JVS Claw 上手：都这么多天了，养虾的门槛被打下来了吗？",
       "created": "2026-03-16",
       "updated": "2026-03-16",
@@ -125,7 +170,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 14,
+      "floor": 19,
       "title": "洪绘图标助手更新：获取应用图标、将你的图标对mac进行适配",
       "created": "2026-03-16",
       "updated": "2026-03-16",
@@ -134,7 +179,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 15,
+      "floor": 20,
       "title": "Waline 评论系统部署日志",
       "created": "2026-03-15",
       "updated": "2026-03-15",
@@ -143,7 +188,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
-      "floor": 16,
+      "floor": 21,
       "title": "超级制图上手：图片上的文字如何用AI修改？无痕改字一键出图",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -152,7 +197,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 17,
+      "floor": 22,
       "title": "用虚拟机养龙虾，在Mac上通过Lume使用虚拟机的隔离环境安装OpenClaw",
       "created": "2026-03-10",
       "updated": "2026-03-10",
@@ -161,7 +206,43 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 18,
+      "floor": 23,
+      "title": "pixi cookbook",
+      "created": "2026-02-08",
+      "updated": "2026-03-08",
+      "link": "https://www.yyyzyyyz.cn/posts/0686424b447c/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 24,
+      "title": "缺氧个人使用模块收藏",
+      "created": "2025-11-16",
+      "updated": "2026-03-08",
+      "link": "https://www.yyyzyyyz.cn/posts/f96116cb782c/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 25,
+      "title": "jupyter多python版本环境配置",
+      "created": "2024-07-30",
+      "updated": "2026-03-08",
+      "link": "https://www.yyyzyyyz.cn/posts/38288b11ef22/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 26,
+      "title": "毛选阅读——第六篇《实践论》其一",
+      "created": "2024-02-15",
+      "updated": "2026-03-08",
+      "link": "https://www.yyyzyyyz.cn/posts/45741597fa6e/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 27,
       "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
       "created": "2025-11-14",
       "updated": "2026-03-04",
@@ -170,7 +251,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 19,
+      "floor": 28,
       "title": "如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行",
       "created": "2026-03-03",
       "updated": "2026-03-03",
@@ -179,7 +260,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 20,
+      "floor": 29,
       "title": "不用买网关，ESP32蓝牙代理解决Home Assistant BLE问题",
       "created": "2026-03-03",
       "updated": "2026-03-03",
@@ -188,7 +269,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 21,
+      "floor": 30,
       "title": "洪绘历史记录发布！无限存储你的浏览器历史记录，防止历史记录被自动删除",
       "created": "2026-02-25",
       "updated": "2026-02-25",
@@ -197,7 +278,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 22,
+      "floor": 31,
       "title": "1012",
       "created": "2026-02-25",
       "updated": "2026-02-25",
@@ -206,7 +287,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 23,
+      "floor": 32,
       "title": "从Nextcloud迁移到immich",
       "created": "2026-02-20",
       "updated": "2026-02-24",
@@ -215,7 +296,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 24,
+      "floor": 33,
       "title": "pixie焊接和验机记录",
       "created": "2025-07-23",
       "updated": "2026-02-12",
@@ -224,7 +305,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 25,
+      "floor": 34,
       "title": "OpenCD签到方式研究",
       "created": "2026-02-11",
       "updated": "2026-02-12",
@@ -233,7 +314,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 26,
+      "floor": 35,
       "title": "战地6刷枪用OCR脚本",
       "created": "2025-11-24",
       "updated": "2026-02-12",
@@ -242,7 +323,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 27,
+      "floor": 36,
       "title": "Steam主页美化指南",
       "created": "2025-11-08",
       "updated": "2026-02-12",
@@ -251,7 +332,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 28,
+      "floor": 37,
       "title": "《魔法少女的魔女审判》个人测评",
       "created": "2025-11-05",
       "updated": "2026-02-12",
@@ -260,7 +341,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"
     },
     {
-      "floor": 29,
+      "floor": 38,
       "title": "追光者",
       "created": "2026-02-11",
       "updated": "2026-02-11",
@@ -269,16 +350,7 @@
       "avatar": "https://npm.elemecdn.com/@kmar/fonts/avatar/own.jpg"
     },
     {
-      "floor": 30,
-      "title": "pixi cookbook",
-      "created": "2026-02-08",
-      "updated": "2026-02-08",
-      "link": "https://www.yyyzyyyz.cn/posts/0686424b447c/",
-      "author": "Black Flies",
-      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
-    },
-    {
-      "floor": 31,
+      "floor": 39,
       "title": "红包封面：祝大家新的一年发大财啦！",
       "created": "2026-02-04",
       "updated": "2026-02-04",
@@ -287,7 +359,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 32,
+      "floor": 40,
       "title": "终端Agent是更趁手的通用Agent",
       "created": "2026-02-02",
       "updated": "2026-02-02",
@@ -296,52 +368,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 33,
-      "title": "Hexo浏览器定向推送文章更新",
-      "created": "2026-03-19",
-      "updated": "2026-01-28",
-      "link": "https://blog.ccknbc.cc/posts/hexo-webpushr-notification/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 34,
-      "title": "基于小波变换的图像去噪技术研究",
-      "created": "2026-03-19",
-      "updated": "2026-01-28",
-      "link": "https://blog.ccknbc.cc/posts/research-on-image-denoising-technology-based-on-wavelet-transform/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 35,
-      "title": "提问的智慧",
-      "created": "2026-03-19",
-      "updated": "2026-01-28",
-      "link": "https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 36,
-      "title": "<font style=color:rgb(38, 38, 38);>2023《好好》线上演唱会</font>",
-      "created": "2026-03-19",
-      "updated": "2026-01-28",
-      "link": "https://blog.ccknbc.cc/posts/%3Cfont%20style=%22color:rgb(38,%2038,%2038);%22%3Esong-about-you-live-in-the-sky-2023%3C/font%3E/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 37,
-      "title": "一款简洁却不简单的 m3u8 下载工具",
-      "created": "2026-03-19",
-      "updated": "2026-01-28",
-      "link": "https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 38,
+      "floor": 41,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
       "updated": "2026-01-27",
@@ -350,7 +377,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 39,
+      "floor": 42,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
       "updated": "2026-01-27",
@@ -359,7 +386,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 40,
+      "floor": 43,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
       "updated": "2026-01-27",
@@ -368,7 +395,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 41,
+      "floor": 44,
       "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
       "created": "2025-11-20",
       "updated": "2026-01-27",
@@ -377,7 +404,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 42,
+      "floor": 45,
       "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
       "created": "2025-11-14",
       "updated": "2026-01-27",
@@ -386,7 +413,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 43,
+      "floor": 46,
       "title": "1011",
       "created": "2026-01-26",
       "updated": "2026-01-26",
@@ -395,7 +422,7 @@
       "avatar": "https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png"
     },
     {
-      "floor": 44,
+      "floor": 47,
       "title": "二〇二六，你好",
       "created": "2026-01-25",
       "updated": "2026-01-25",
@@ -404,7 +431,7 @@
       "avatar": "https://gravatar.loli.net/avatar/ba83fa02fc4b2ba621514941307e21be"
     },
     {
-      "floor": 45,
+      "floor": 48,
       "title": "如何将 FinalcutPro的fcpxml文件转换为srt字幕？导出srt字幕方法",
       "created": "2026-01-22",
       "updated": "2026-01-22",
@@ -413,7 +440,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 46,
+      "floor": 49,
       "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
       "created": "2025-11-08",
       "updated": "2026-01-20",
@@ -422,7 +449,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 47,
+      "floor": 50,
       "title": "最近总觉得脑子不够用？杜老师的脑力不足自救实录",
       "created": "2025-11-02",
       "updated": "2026-01-20",
@@ -431,7 +458,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 48,
+      "floor": 51,
       "title": "为什么我不推荐你用 Jetson 跑大模型",
       "created": "2025-11-27",
       "updated": "2026-01-20",
@@ -440,7 +467,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 49,
+      "floor": 52,
       "title": "回忆录：音乐，番剧，与二次元",
       "created": "2025-04-28",
       "updated": "2026-01-20",
@@ -449,7 +476,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 50,
+      "floor": 53,
       "title": "在Linux的登录界面使用Sunshine串流",
       "created": "2025-04-07",
       "updated": "2026-01-20",
@@ -458,7 +485,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 51,
+      "floor": 54,
       "title": "折腾记录：我的全套电脑远程使用方案",
       "created": "2024-10-22",
       "updated": "2026-01-20",
@@ -467,7 +494,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 52,
+      "floor": 55,
       "title": "折腾记录：在牛马公司里优雅地上网",
       "created": "2024-08-01",
       "updated": "2026-01-20",
@@ -476,7 +503,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/978a0b627668cc2e0f3b284c3b10bd8a?d=identicon"
     },
     {
-      "floor": 53,
+      "floor": 56,
       "title": "一站式操作系统 ISO 下载平台",
       "created": "2025-10-27",
       "updated": "2026-01-19",
@@ -485,7 +512,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 54,
+      "floor": 57,
       "title": "MinIO 社区版 Web 管理界面被删事件全解析",
       "created": "2025-10-21",
       "updated": "2026-01-19",
@@ -494,7 +521,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 55,
+      "floor": 58,
       "title": "新年快乐！迟来的 2024 及 2025 年度报告",
       "created": "2025-12-30",
       "updated": "2026-01-19",
