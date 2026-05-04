@@ -3,8 +3,8 @@
     "friends_num": 101,
     "active_num": 31,
     "error_num": 70,
-    "article_num": 51,
-    "last_updated_time": "2026-05-04 22:22:19"
+    "article_num": 54,
+    "last_updated_time": "2026-05-05 03:50:38"
   },
   "article_data": [
     {
@@ -56,7 +56,7 @@
       "floor": 6,
       "title": "推荐酷鸭数据主机",
       "created": "2026-02-25",
-      "updated": "2026-05-03",
+      "updated": "2026-05-04",
       "link": "https://dusays.com/archives/855/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -65,7 +65,7 @@
       "floor": 7,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
-      "updated": "2026-05-03",
+      "updated": "2026-05-04",
       "link": "https://dusays.com/archives/845/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -74,7 +74,7 @@
       "floor": 8,
       "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
       "created": "2025-12-08",
-      "updated": "2026-05-03",
+      "updated": "2026-05-04",
       "link": "https://dusays.com/archives/841/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -83,7 +83,7 @@
       "floor": 9,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
-      "updated": "2026-05-03",
+      "updated": "2026-05-04",
       "link": "https://dusays.com/archives/840/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -92,7 +92,7 @@
       "floor": 10,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
-      "updated": "2026-05-03",
+      "updated": "2026-05-04",
       "link": "https://dusays.com/archives/839/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -342,6 +342,24 @@
     },
     {
       "floor": 38,
+      "title": "家家争唱饮水词，纳兰心事几人知",
+      "created": "2026-03-15",
+      "updated": "2026-03-28",
+      "link": "https://www.yyyzyyyz.cn/posts/f4e612b681c0/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 39,
+      "title": "近日随想",
+      "created": "2026-03-08",
+      "updated": "2026-03-23",
+      "link": "https://www.yyyzyyyz.cn/posts/a58b6ba9d0a9/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 40,
       "title": "洪绘星空发布：一个值得逛的博客友链朋友圈",
       "created": "2026-03-20",
       "updated": "2026-03-20",
@@ -350,7 +368,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 39,
+      "floor": 41,
       "title": "航空发动机分类",
       "created": "2026-03-18",
       "updated": "2026-03-18",
@@ -359,7 +377,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 40,
+      "floor": 42,
       "title": "逆变器理论功耗计算",
       "created": "2026-03-18",
       "updated": "2026-03-18",
@@ -368,7 +386,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 41,
+      "floor": 43,
       "title": "产品防护等级",
       "created": "2026-03-18",
       "updated": "2026-03-18",
@@ -377,7 +395,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 42,
+      "floor": 44,
       "title": "腾讯QClaw上手：打通微信很方便，但是性能上略有不足",
       "created": "2026-03-17",
       "updated": "2026-03-17",
@@ -386,7 +404,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 43,
+      "floor": 45,
       "title": "快速拷贝",
       "created": "2026-03-17",
       "updated": "2026-03-17",
@@ -395,7 +413,7 @@
       "avatar": "https://info.xinmouren.cn/custom.gif"
     },
     {
-      "floor": 44,
+      "floor": 46,
       "title": "洪绘图标助手更新：获取应用图标、将你的图标对mac进行适配",
       "created": "2026-03-16",
       "updated": "2026-03-16",
@@ -404,7 +422,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 45,
+      "floor": 47,
       "title": "阿里 JVS Claw 上手：都这么多天了，养虾的门槛被打下来了吗？",
       "created": "2026-03-16",
       "updated": "2026-03-16",
@@ -413,16 +431,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 46,
-      "title": "家家争唱饮水词，纳兰心事几人知",
-      "created": "2026-03-15",
-      "updated": "2026-03-15",
-      "link": "https://www.yyyzyyyz.cn/posts/f4e612b681c0/",
-      "author": "Black Flies",
-      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
-    },
-    {
-      "floor": 47,
+      "floor": 48,
       "title": "超级制图上手：图片上的文字如何用AI修改？无痕改字一键出图",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -431,7 +440,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 48,
+      "floor": 49,
       "title": "用虚拟机养龙虾，在Mac上通过Lume使用虚拟机的隔离环境安装OpenClaw",
       "created": "2026-03-10",
       "updated": "2026-03-10",
@@ -440,7 +449,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 49,
+      "floor": 50,
       "title": "Kubernetes",
       "created": "2022-01-14",
       "updated": "2026-03-08",
@@ -449,7 +458,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
     },
     {
-      "floor": 50,
+      "floor": 51,
       "title": "rust入坑小记-总览",
       "created": "2023-02-11",
       "updated": "2026-03-08",
@@ -458,11 +467,29 @@
       "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
     },
     {
-      "floor": 51,
-      "title": "近日随想",
-      "created": "2026-03-08",
+      "floor": 52,
+      "title": "pixi cookbook",
+      "created": "2026-02-08",
       "updated": "2026-03-08",
-      "link": "https://www.yyyzyyyz.cn/posts/a58b6ba9d0a9/",
+      "link": "https://www.yyyzyyyz.cn/posts/0686424b447c/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 53,
+      "title": "缺氧个人使用模块收藏",
+      "created": "2025-11-16",
+      "updated": "2026-03-08",
+      "link": "https://www.yyyzyyyz.cn/posts/f96116cb782c/",
+      "author": "Black Flies",
+      "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
+    },
+    {
+      "floor": 54,
+      "title": "jupyter多python版本环境配置",
+      "created": "2024-07-30",
+      "updated": "2026-03-08",
+      "link": "https://www.yyyzyyyz.cn/posts/38288b11ef22/",
       "author": "Black Flies",
       "avatar": "https://cdn1.tianli0.top/gh/hiltay/imgcdn/img/202111191951780.JPG"
     }
