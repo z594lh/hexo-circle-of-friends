@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 30,
-    "error_num": 71,
-    "article_num": 46,
-    "last_updated_time": "2026-07-09 03:46:02"
+    "active_num": 31,
+    "error_num": 70,
+    "article_num": 51,
+    "last_updated_time": "2026-07-09 06:14:38"
   },
   "article_data": [
     {
@@ -225,6 +225,51 @@
     },
     {
       "floor": 25,
+      "title": "Hexo浏览器定向推送文章更新",
+      "created": "2026-06-24",
+      "updated": "2026-06-24",
+      "link": "https://blog.ccknbc.cc/posts/hexo-webpushr-notification/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 26,
+      "title": "基于小波变换的图像去噪技术研究",
+      "created": "2026-06-24",
+      "updated": "2026-06-24",
+      "link": "https://blog.ccknbc.cc/posts/research-on-image-denoising-technology-based-on-wavelet-transform/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 27,
+      "title": "提问的智慧",
+      "created": "2026-06-24",
+      "updated": "2026-06-24",
+      "link": "https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 28,
+      "title": "GitHub 自动合并 PR 笔记",
+      "created": "2026-06-24",
+      "updated": "2026-06-24",
+      "link": "https://blog.ccknbc.cc/posts/github-automatically-merges-pull-requests-notes/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 29,
+      "title": "一款简洁却不简单的 m3u8 下载工具",
+      "created": "2026-06-24",
+      "updated": "2026-06-24",
+      "link": "https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 30,
       "title": "Butterfly主题魔改样式查阅(魔改篇)",
       "created": "2026-06-20",
       "updated": "2026-06-20",
@@ -233,7 +278,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 26,
+      "floor": 31,
       "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
       "created": "2026-06-18",
       "updated": "2026-06-18",
@@ -242,7 +287,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 27,
+      "floor": 32,
       "title": "重要照片一定要备份，手机养成照片备份的好习惯",
       "created": "2026-06-17",
       "updated": "2026-06-17",
@@ -251,7 +296,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 28,
+      "floor": 33,
       "title": "iPhone 17/iOS 26 初体验",
       "created": "2026-06-17",
       "updated": "2026-06-17",
@@ -260,7 +305,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png"
     },
     {
-      "floor": 29,
+      "floor": 34,
       "title": "Butterfly主题升级Hexo和Nodejs教程",
       "created": "2026-06-14",
       "updated": "2026-06-14",
@@ -269,7 +314,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 30,
+      "floor": 35,
       "title": "HeoSticker3D发布：3D形态的Heo表情，个人免费使用",
       "created": "2026-06-11",
       "updated": "2026-06-11",
@@ -278,7 +323,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 31,
+      "floor": 36,
       "title": "洪绘历史记录大更新：支持根据历史记录的AI对话",
       "created": "2026-06-09",
       "updated": "2026-06-09",
@@ -287,7 +332,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 32,
+      "floor": 37,
       "title": "这才是我心目中AI博客的样子",
       "created": "2026-06-09",
       "updated": "2026-06-09",
@@ -296,7 +341,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 33,
+      "floor": 38,
       "title": "如何让OpenClaw调用你的百度网盘？百度网盘官方Skill帮你上传、下载与分享",
       "created": "2026-06-04",
       "updated": "2026-06-04",
@@ -305,7 +350,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 34,
+      "floor": 39,
       "title": "如何判断一个文章是不是AI写的？文字、视频、图片AI检测方法",
       "created": "2026-05-29",
       "updated": "2026-05-29",
@@ -314,7 +359,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 35,
+      "floor": 40,
       "title": "STM32F103VBT6: 闪烁一盏LED灯",
       "created": "2022-11-23",
       "updated": "2026-05-29",
@@ -323,7 +368,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 36,
+      "floor": 41,
       "title": "用Photoshop实现IOS/MacOS的模糊效果",
       "created": "2022-07-28",
       "updated": "2026-05-29",
@@ -332,7 +377,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 37,
+      "floor": 42,
       "title": "从绘板到跑路: 基于IAP15F2K61S2芯片的单片机折腾笔记",
       "created": "2022-07-14",
       "updated": "2026-05-29",
@@ -341,7 +386,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 38,
+      "floor": 43,
       "title": "Vue + Electron 搭建跨端桌面应用",
       "created": "2022-07-02",
       "updated": "2026-05-29",
@@ -350,7 +395,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 39,
+      "floor": 44,
       "title": "PyTorch + OpenVINO™ 深度学习笔记",
       "created": "2022-03-22",
       "updated": "2026-05-29",
@@ -359,7 +404,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 40,
+      "floor": 45,
       "title": "分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况",
       "created": "2026-05-26",
       "updated": "2026-05-26",
@@ -368,7 +413,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 41,
+      "floor": 46,
       "title": "为OpenClaw搭建一个免费的搜索引擎，如何让OpenClaw搜索网页内容",
       "created": "2026-05-22",
       "updated": "2026-05-22",
@@ -377,7 +422,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 42,
+      "floor": 47,
       "title": "为啥别人用Image2做的图那么好看？我的却特别丑？如何模仿别人的风格作图？",
       "created": "2026-05-21",
       "updated": "2026-05-21",
@@ -386,7 +431,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 43,
+      "floor": 48,
       "title": "这一次，我们听点有意思的",
       "created": "2026-05-21",
       "updated": "2026-05-21",
@@ -395,7 +440,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 44,
+      "floor": 49,
       "title": "如何给自己创作的歌曲生成歌词文件？手打逐字歌词lrc文件教程",
       "created": "2026-05-19",
       "updated": "2026-05-19",
@@ -404,7 +449,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 45,
+      "floor": 50,
       "title": "免费可商用字体推荐：寒蝉端黑宋下载",
       "created": "2026-05-18",
       "updated": "2026-05-18",
@@ -413,7 +458,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 46,
+      "floor": 51,
       "title": "洪绘响度发布：测量视频LUFS工具，并支持转换视频到指定LUFS",
       "created": "2026-05-11",
       "updated": "2026-05-11",
