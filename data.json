@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 29,
-    "error_num": 72,
-    "article_num": 67,
-    "last_updated_time": "2026-07-19 03:14:56"
+    "active_num": 30,
+    "error_num": 71,
+    "article_num": 62,
+    "last_updated_time": "2026-07-19 05:57:31"
   },
   "article_data": [
     {
@@ -117,51 +117,6 @@
     },
     {
       "floor": 13,
-      "title": "Hexo浏览器定向推送文章更新",
-      "created": "2026-07-15",
-      "updated": "2026-07-15",
-      "link": "https://blog.ccknbc.cc/posts/hexo-webpushr-notification/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 14,
-      "title": "基于小波变换的图像去噪技术研究",
-      "created": "2026-07-15",
-      "updated": "2026-07-15",
-      "link": "https://blog.ccknbc.cc/posts/research-on-image-denoising-technology-based-on-wavelet-transform/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 15,
-      "title": "提问的智慧",
-      "created": "2026-07-15",
-      "updated": "2026-07-15",
-      "link": "https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 16,
-      "title": "一款简洁却不简单的 m3u8 下载工具",
-      "created": "2026-07-15",
-      "updated": "2026-07-15",
-      "link": "https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 17,
-      "title": "Waline 评论系统部署日志",
-      "created": "2026-07-15",
-      "updated": "2026-07-15",
-      "link": "https://blog.ccknbc.cc/posts/waline-comments-system-deployment-logs/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 18,
       "title": "培训笔记只记关键字的 3 个好处",
       "created": "2026-05-13",
       "updated": "2026-07-13",
@@ -170,7 +125,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 19,
+      "floor": 14,
       "title": "通勤最后 10 分钟的\"减速\"技巧",
       "created": "2026-05-07",
       "updated": "2026-07-13",
@@ -179,7 +134,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 20,
+      "floor": 15,
       "title": "两人吃外卖的 2 个小默契",
       "created": "2026-05-01",
       "updated": "2026-07-13",
@@ -188,7 +143,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 21,
+      "floor": 16,
       "title": "深夜吃夜宵的 3 个节制技巧",
       "created": "2026-04-25",
       "updated": "2026-07-12",
@@ -197,7 +152,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 22,
+      "floor": 17,
       "title": "橘猫经常跳上书桌的 3 个应对",
       "created": "2026-04-19",
       "updated": "2026-07-12",
@@ -206,7 +161,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 23,
+      "floor": 18,
       "title": "自建虚拟局域网实现文明六稳定联机",
       "created": "2026-07-12",
       "updated": "2026-07-12",
@@ -215,7 +170,7 @@
       "avatar": "https://npm.elemecdn.com/@kmar/fonts/avatar/own.jpg"
     },
     {
-      "floor": 24,
+      "floor": 19,
       "title": "夏季骑行通勤的 3 个小习惯",
       "created": "2026-03-26",
       "updated": "2026-07-11",
@@ -224,7 +179,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 25,
+      "floor": 20,
       "title": "推荐酷鸭数据主机",
       "created": "2026-03-02",
       "updated": "2026-07-11",
@@ -233,7 +188,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 26,
+      "floor": 21,
       "title": "培训归来：把新学到的命令收纳到 shell 的 2 个动作",
       "created": "2026-02-24",
       "updated": "2026-07-11",
@@ -242,7 +197,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 27,
+      "floor": 22,
       "title": "黄昏漫步的\"下班缓冲\"为什么重要",
       "created": "2026-02-18",
       "updated": "2026-07-11",
@@ -251,7 +206,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 28,
+      "floor": 23,
       "title": "酒店 Wi-Fi 不稳的 3 个 fallback 工具",
       "created": "2026-02-12",
       "updated": "2026-07-11",
@@ -260,7 +215,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 29,
+      "floor": 24,
       "title": "混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上",
       "created": "2026-07-08",
       "updated": "2026-07-08",
@@ -269,7 +224,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 30,
+      "floor": 25,
       "title": "给OpenClaw加上rm删除保护：防止AI误删你的整个电脑",
       "created": "2026-07-07",
       "updated": "2026-07-07",
@@ -278,7 +233,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 31,
+      "floor": 26,
       "title": "培训归来：怎样把新学到的命令收纳到自己的 shell",
       "created": "2026-02-06",
       "updated": "2026-07-04",
@@ -287,7 +242,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 32,
+      "floor": 27,
       "title": "高铁出差路上的 4 个阅读习惯",
       "created": "2026-01-31",
       "updated": "2026-07-03",
@@ -296,7 +251,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 33,
+      "floor": 28,
       "title": "macOS 终端下本地跑 LLM 实测",
       "created": "2026-01-25",
       "updated": "2026-07-03",
@@ -305,7 +260,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 34,
+      "floor": 29,
       "title": "美团longcat上手：缓存免费，主打便宜，就是速度太慢，思考时间looooong",
       "created": "2026-07-02",
       "updated": "2026-07-02",
@@ -314,7 +269,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 35,
+      "floor": 30,
       "title": "豆言豆语Skill发布：让AI学会豆包的毒舌说话风格",
       "created": "2026-07-02",
       "updated": "2026-07-02",
@@ -323,7 +278,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 36,
+      "floor": 31,
       "title": "OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度",
       "created": "2026-07-01",
       "updated": "2026-07-01",
@@ -332,7 +287,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 37,
+      "floor": 32,
       "title": "资产代币化浪潮下的券商进退之道",
       "created": "2026-06-16",
       "updated": "2026-06-30",
@@ -341,7 +296,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 38,
+      "floor": 33,
       "title": "全球主流券商核心优势与特色业务盘点",
       "created": "2026-06-15",
       "updated": "2026-06-30",
@@ -350,7 +305,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 39,
+      "floor": 34,
       "title": "富途 vs 老虎 对标研究报告",
       "created": "2026-06-09",
       "updated": "2026-06-30",
@@ -359,7 +314,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 40,
+      "floor": 35,
       "title": "新年快乐！迟来的 2024 及 2025 年度报告",
       "created": "2025-12-30",
       "updated": "2026-06-30",
@@ -368,7 +323,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 41,
+      "floor": 36,
       "title": "锂电池寿命影响因素探究及原理分析",
       "created": "2024-12-30",
       "updated": "2026-06-30",
@@ -377,7 +332,7 @@
       "avatar": "https://blog.xujiayao.top/file/avatar.jpg"
     },
     {
-      "floor": 42,
+      "floor": 37,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
       "updated": "2026-06-29",
@@ -386,7 +341,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 43,
+      "floor": 38,
       "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
       "created": "2025-12-08",
       "updated": "2026-06-29",
@@ -395,7 +350,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 44,
+      "floor": 39,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
       "updated": "2026-06-29",
@@ -404,7 +359,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 45,
+      "floor": 40,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
       "updated": "2026-06-29",
@@ -413,7 +368,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 46,
+      "floor": 41,
       "title": "小米平板8Pro上手：便宜且流畅的好平板，安卓平板的高效令人印象深刻",
       "created": "2026-06-29",
       "updated": "2026-06-29",
@@ -422,7 +377,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 47,
+      "floor": 42,
       "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
       "created": "2026-06-25",
       "updated": "2026-06-25",
@@ -431,7 +386,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 48,
+      "floor": 43,
       "title": "Butterfly主题魔改样式查阅(魔改篇)",
       "created": "2026-06-20",
       "updated": "2026-06-20",
@@ -440,7 +395,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 49,
+      "floor": 44,
       "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
       "created": "2026-06-18",
       "updated": "2026-06-18",
@@ -449,7 +404,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 50,
+      "floor": 45,
       "title": "重要照片一定要备份，手机养成照片备份的好习惯",
       "created": "2026-06-17",
       "updated": "2026-06-17",
@@ -458,7 +413,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 51,
+      "floor": 46,
       "title": "iPhone 17/iOS 26 初体验",
       "created": "2026-06-17",
       "updated": "2026-06-17",
@@ -467,7 +422,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png"
     },
     {
-      "floor": 52,
+      "floor": 47,
       "title": "Butterfly主题升级Hexo和Nodejs教程",
       "created": "2026-06-14",
       "updated": "2026-06-14",
@@ -476,7 +431,7 @@
       "avatar": "https://cdn1.tianli0.top/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 53,
+      "floor": 48,
       "title": "HeoSticker3D发布：3D形态的Heo表情，个人免费使用",
       "created": "2026-06-11",
       "updated": "2026-06-11",
@@ -485,7 +440,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 54,
+      "floor": 49,
       "title": "洪绘历史记录大更新：支持根据历史记录的AI对话",
       "created": "2026-06-09",
       "updated": "2026-06-09",
@@ -494,7 +449,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 55,
+      "floor": 50,
       "title": "这才是我心目中AI博客的样子",
       "created": "2026-06-09",
       "updated": "2026-06-09",
@@ -503,7 +458,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 56,
+      "floor": 51,
       "title": "如何让OpenClaw调用你的百度网盘？百度网盘官方Skill帮你上传、下载与分享",
       "created": "2026-06-04",
       "updated": "2026-06-04",
@@ -512,7 +467,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 57,
+      "floor": 52,
       "title": "如何判断一个文章是不是AI写的？文字、视频、图片AI检测方法",
       "created": "2026-05-29",
       "updated": "2026-05-29",
@@ -521,7 +476,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 58,
+      "floor": 53,
       "title": "STM32F103VBT6: 闪烁一盏LED灯",
       "created": "2022-11-23",
       "updated": "2026-05-29",
@@ -530,7 +485,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 59,
+      "floor": 54,
       "title": "用Photoshop实现IOS/MacOS的模糊效果",
       "created": "2022-07-28",
       "updated": "2026-05-29",
@@ -539,7 +494,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 60,
+      "floor": 55,
       "title": "从绘板到跑路: 基于IAP15F2K61S2芯片的单片机折腾笔记",
       "created": "2022-07-14",
       "updated": "2026-05-29",
@@ -548,7 +503,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 61,
+      "floor": 56,
       "title": "Vue + Electron 搭建跨端桌面应用",
       "created": "2022-07-02",
       "updated": "2026-05-29",
@@ -557,7 +512,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 62,
+      "floor": 57,
       "title": "PyTorch + OpenVINO™ 深度学习笔记",
       "created": "2022-03-22",
       "updated": "2026-05-29",
@@ -566,7 +521,7 @@
       "avatar": "https://www.seaeye.cn/img/Xayah.jpg"
     },
     {
-      "floor": 63,
+      "floor": 58,
       "title": "分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况",
       "created": "2026-05-26",
       "updated": "2026-05-26",
@@ -575,7 +530,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 64,
+      "floor": 59,
       "title": "为OpenClaw搭建一个免费的搜索引擎，如何让OpenClaw搜索网页内容",
       "created": "2026-05-22",
       "updated": "2026-05-22",
@@ -584,7 +539,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 65,
+      "floor": 60,
       "title": "为啥别人用Image2做的图那么好看？我的却特别丑？如何模仿别人的风格作图？",
       "created": "2026-05-21",
       "updated": "2026-05-21",
@@ -593,7 +548,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 66,
+      "floor": 61,
       "title": "这一次，我们听点有意思的",
       "created": "2026-05-21",
       "updated": "2026-05-21",
@@ -602,7 +557,7 @@
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
-      "floor": 67,
+      "floor": 62,
       "title": "如何给自己创作的歌曲生成歌词文件？手打逐字歌词lrc文件教程",
       "created": "2026-05-19",
       "updated": "2026-05-19",
