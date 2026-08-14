@@ -3,8 +3,8 @@
     "friends_num": 101,
     "active_num": 28,
     "error_num": 73,
-    "article_num": 65,
-    "last_updated_time": "2026-08-14 05:54:23"
+    "article_num": 64,
+    "last_updated_time": "2026-08-14 10:31:16"
   },
   "article_data": [
     {
@@ -582,15 +582,6 @@
       "link": "https://bili33.top/posts/My-First-Experience-on-iPhone-and-iOS/",
       "author": "GamerNoTitle",
       "avatar": "https://cdn1.tianli0.top/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png"
-    },
-    {
-      "floor": 65,
-      "title": "Butterfly主题升级Hexo和Nodejs教程",
-      "created": "2026-06-14",
-      "updated": "2026-06-14",
-      "link": "https://zykj.js.org/posts/15776ef/",
-      "author": "卓越科技的Blog",
-      "avatar": "https://cdn1.tianli0.top/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     }
   ]
 }
