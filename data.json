@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 29,
-    "error_num": 72,
-    "article_num": 69,
-    "last_updated_time": "2026-08-25 05:36:39"
+    "active_num": 28,
+    "error_num": 73,
+    "article_num": 68,
+    "last_updated_time": "2026-08-25 09:42:09"
   },
   "article_data": [
     {
@@ -618,15 +618,6 @@
       "link": "https://lisir.me/articles/three-lists-for-solo-projects/",
       "author": "LISIR",
       "avatar": "https://unpkg.zhimg.com/wkwbk-img@1.0.1/imgs/avatar.png"
-    },
-    {
-      "floor": 69,
-      "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
-      "created": "2026-06-25",
-      "updated": "2026-06-25",
-      "link": "https://blog.zhheo.com/p/9yuhxjpl.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
     }
   ]
 }
