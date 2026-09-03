@@ -3,8 +3,8 @@
     "friends_num": 101,
     "active_num": 28,
     "error_num": 73,
-    "article_num": 60,
-    "last_updated_time": "2026-09-03 07:13:59"
+    "article_num": 59,
+    "last_updated_time": "2026-09-03 12:05:40"
   },
   "article_data": [
     {
@@ -537,15 +537,6 @@
       "link": "https://blog.zhheo.com/p/owiixgnk.html",
       "author": "【红】Heo",
       "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
-      "floor": 60,
-      "title": "培训归来：怎样把新学到的命令收纳到自己的 shell",
-      "created": "2026-02-06",
-      "updated": "2026-07-04",
-      "link": "https://dusays.com/archives/851/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
     }
   ]
 }
