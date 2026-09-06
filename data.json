@@ -3,8 +3,8 @@
     "friends_num": 101,
     "active_num": 28,
     "error_num": 73,
-    "article_num": 61,
-    "last_updated_time": "2026-09-06 06:46:04"
+    "article_num": 60,
+    "last_updated_time": "2026-09-06 12:14:41"
   },
   "article_data": [
     {
@@ -544,15 +544,6 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "link": "https://blog.zhheo.com/p/2orxjo9r.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
-      "floor": 61,
-      "title": "给OpenClaw加上rm删除保护：防止AI误删你的整个电脑",
-      "created": "2026-07-07",
-      "updated": "2026-07-07",
-      "link": "https://blog.zhheo.com/p/owiixgnk.html",
       "author": "【红】Heo",
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     }
