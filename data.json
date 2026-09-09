@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 27,
-    "error_num": 74,
+    "active_num": 28,
+    "error_num": 73,
     "article_num": 64,
-    "last_updated_time": "2026-09-10 04:50:23"
+    "last_updated_time": "2026-09-10 07:08:31"
   },
   "article_data": [
     {
@@ -20,7 +20,7 @@
       "floor": 2,
       "title": "Web 应用常见漏洞与防御:OWASP Top 10 实战讲解",
       "created": "2026-09-04",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "link": "https://dusays.com/archives/886/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -29,7 +29,7 @@
       "floor": 3,
       "title": "Home Assistant 智能家居搭建:从零打造自动化生活",
       "created": "2026-08-29",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "link": "https://dusays.com/archives/885/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -38,7 +38,7 @@
       "floor": 4,
       "title": "从零理解 TCP/IP 协议栈:网络世界的通用语言",
       "created": "2026-08-23",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "link": "https://dusays.com/archives/884/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -47,7 +47,7 @@
       "floor": 5,
       "title": "运维工程师面试全攻略:从简历到 Offer 的完整指南",
       "created": "2026-08-17",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "link": "https://dusays.com/archives/883/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -56,7 +56,7 @@
       "floor": 6,
       "title": "免费学习平台精选:这 15 个网站让你省下几万培训费",
       "created": "2026-08-11",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "link": "https://dusays.com/archives/882/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
