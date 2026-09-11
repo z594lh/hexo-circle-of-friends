@@ -1,32 +1,14 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 28,
-    "error_num": 73,
+    "active_num": 27,
+    "error_num": 74,
     "article_num": 60,
-    "last_updated_time": "2026-09-11 19:04:09"
+    "last_updated_time": "2026-09-12 00:19:44"
   },
   "article_data": [
     {
       "floor": 1,
-      "title": "为 iPhone Duo 做设计：苹果官方设计原则全解读",
-      "created": "2026-09-11",
-      "updated": "2026-09-11",
-      "link": "https://blog.zhheo.com/p/kq0qyc9y.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
-      "floor": 2,
-      "title": "看到了淘宝闪购的AI评论，引发了我的思考",
-      "created": "2026-09-11",
-      "updated": "2026-09-11",
-      "link": "https://blog.zhheo.com/p/0vmg6q9j.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
-      "floor": 3,
       "title": "Home Assistant 智能家居搭建:从零打造自动化生活",
       "created": "2026-08-29",
       "updated": "2026-09-11",
@@ -35,7 +17,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 4,
+      "floor": 2,
       "title": "从零理解 TCP/IP 协议栈:网络世界的通用语言",
       "created": "2026-08-23",
       "updated": "2026-09-11",
@@ -44,7 +26,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 5,
+      "floor": 3,
       "title": "运维工程师面试全攻略:从简历到 Offer 的完整指南",
       "created": "2026-08-17",
       "updated": "2026-09-11",
@@ -53,7 +35,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 6,
+      "floor": 4,
       "title": "免费学习平台精选:这 15 个网站让你省下几万培训费",
       "created": "2026-08-11",
       "updated": "2026-09-11",
@@ -62,13 +44,31 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 7,
+      "floor": 5,
       "title": "开发者必备工具集:这 30 个工具让我的效率提升了 300%",
       "created": "2026-08-05",
       "updated": "2026-09-11",
       "link": "https://dusays.com/archives/881/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "floor": 6,
+      "title": "为 iPhone Duo 做设计：苹果官方设计原则全解读",
+      "created": "2026-09-11",
+      "updated": "2026-09-11",
+      "link": "https://blog.zhheo.com/p/kq0qyc9y.html",
+      "author": "【红】Heo",
+      "avatar": "https://blog.zhheo.com/img/avatar.png"
+    },
+    {
+      "floor": 7,
+      "title": "看到了淘宝闪购的AI评论，引发了我的思考",
+      "created": "2026-09-11",
+      "updated": "2026-09-11",
+      "link": "https://blog.zhheo.com/p/0vmg6q9j.html",
+      "author": "【红】Heo",
+      "avatar": "https://blog.zhheo.com/img/avatar.png"
     },
     {
       "floor": 8,
