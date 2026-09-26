@@ -1,17 +1,17 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 28,
-    "error_num": 73,
+    "active_num": 29,
+    "error_num": 72,
     "article_num": 54,
-    "last_updated_time": "2026-09-26 19:13:26"
+    "last_updated_time": "2026-09-27 00:14:36"
   },
   "article_data": [
     {
       "floor": 1,
       "title": "一份中秋礼盒",
       "created": "2026-09-22",
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "link": "https://dusays.com/posts/889/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -20,7 +20,7 @@
       "floor": 2,
       "title": "开源的终点是收费：MinIO 砍掉 WebUI，Mattermost 限制聊天数量",
       "created": "2026-09-16",
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "link": "https://dusays.com/posts/888/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -29,7 +29,7 @@
       "floor": 3,
       "title": "Python 脚本自动化实战:让重复工作一键完成",
       "created": "2026-09-10",
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "link": "https://dusays.com/posts/887/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -38,7 +38,7 @@
       "floor": 4,
       "title": "Web 应用常见漏洞与防御:OWASP Top 10 实战讲解",
       "created": "2026-09-04",
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "link": "https://dusays.com/posts/886/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
@@ -47,7 +47,7 @@
       "floor": 5,
       "title": "Home Assistant 智能家居搭建:从零打造自动化生活",
       "created": "2026-08-29",
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "link": "https://dusays.com/posts/885/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
