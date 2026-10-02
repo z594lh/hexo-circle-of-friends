@@ -1,59 +1,14 @@
 {
   "statistical_data": {
     "friends_num": 101,
-    "active_num": 30,
-    "error_num": 71,
+    "active_num": 29,
+    "error_num": 72,
     "article_num": 54,
-    "last_updated_time": "2026-10-02 06:35:07"
+    "last_updated_time": "2026-10-02 13:18:01"
   },
   "article_data": [
     {
       "floor": 1,
-      "title": "提问的智慧",
-      "created": "2026-10-01",
-      "updated": "2026-10-01",
-      "link": "https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 2,
-      "title": "基于小波变换的图像去噪技术研究",
-      "created": "2026-10-01",
-      "updated": "2026-10-01",
-      "link": "https://blog.ccknbc.cc/posts/research-on-image-denoising-technology-based-on-wavelet-transform/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 3,
-      "title": "Waline 评论系统部署日志",
-      "created": "2026-10-01",
-      "updated": "2026-10-01",
-      "link": "https://blog.ccknbc.cc/posts/waline-comments-system-deployment-logs/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 4,
-      "title": "一款简洁却不简单的 m3u8 下载工具",
-      "created": "2026-10-01",
-      "updated": "2026-10-01",
-      "link": "https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 5,
-      "title": "GitHub 自动合并 PR 笔记",
-      "created": "2026-10-01",
-      "updated": "2026-10-01",
-      "link": "https://blog.ccknbc.cc/posts/github-automatically-merges-pull-requests-notes/",
-      "author": "CC的部落格",
-      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
-    },
-    {
-      "floor": 6,
       "title": "我家猫叫西瓜",
       "created": "2026-09-28",
       "updated": "2026-10-01",
@@ -62,7 +17,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 7,
+      "floor": 2,
       "title": "一份中秋礼盒",
       "created": "2026-09-22",
       "updated": "2026-10-01",
@@ -71,7 +26,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 8,
+      "floor": 3,
       "title": "开源的终点是收费：MinIO 砍掉 WebUI，Mattermost 限制聊天数量",
       "created": "2026-09-16",
       "updated": "2026-10-01",
@@ -80,7 +35,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 9,
+      "floor": 4,
       "title": "Python 脚本自动化实战:让重复工作一键完成",
       "created": "2026-09-10",
       "updated": "2026-10-01",
@@ -89,13 +44,58 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "floor": 10,
+      "floor": 5,
       "title": "Web 应用常见漏洞与防御:OWASP Top 10 实战讲解",
       "created": "2026-09-04",
       "updated": "2026-10-01",
       "link": "https://dusays.com/posts/886/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "floor": 6,
+      "title": "提问的智慧",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "link": "https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 7,
+      "title": "基于小波变换的图像去噪技术研究",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "link": "https://blog.ccknbc.cc/posts/research-on-image-denoising-technology-based-on-wavelet-transform/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 8,
+      "title": "Waline 评论系统部署日志",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "link": "https://blog.ccknbc.cc/posts/waline-comments-system-deployment-logs/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 9,
+      "title": "一款简洁却不简单的 m3u8 下载工具",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "link": "https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
+    },
+    {
+      "floor": 10,
+      "title": "GitHub 自动合并 PR 笔记",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "link": "https://blog.ccknbc.cc/posts/github-automatically-merges-pull-requests-notes/",
+      "author": "CC的部落格",
+      "avatar": "https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png"
     },
     {
       "floor": 11,
