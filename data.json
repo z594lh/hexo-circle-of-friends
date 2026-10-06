@@ -3,8 +3,8 @@
     "friends_num": 101,
     "active_num": 29,
     "error_num": 72,
-    "article_num": 56,
-    "last_updated_time": "2026-10-06 07:58:19"
+    "article_num": 54,
+    "last_updated_time": "2026-10-06 14:09:15"
   },
   "article_data": [
     {
@@ -490,24 +490,6 @@
       "created": "2026-08-07",
       "updated": "2026-08-07",
       "link": "https://blog.zhheo.com/p/0zlnja8m.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
-      "floor": 55,
-      "title": "WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持",
-      "created": "2026-08-06",
-      "updated": "2026-08-06",
-      "link": "https://blog.zhheo.com/p/z1fmm8ee.html",
-      "author": "【红】Heo",
-      "avatar": "https://blog.zhheo.com/img/avatar.png"
-    },
-    {
-      "floor": 56,
-      "title": "洪绘烧纸：一个网页在线电子烧纸，电子祭祀工具",
-      "created": "2026-08-06",
-      "updated": "2026-08-06",
-      "link": "https://blog.zhheo.com/p/kiazx47a.html",
       "author": "【红】Heo",
       "avatar": "https://blog.zhheo.com/img/avatar.png"
     }
